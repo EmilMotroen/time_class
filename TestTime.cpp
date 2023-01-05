@@ -1,3 +1,6 @@
+// Small class test in c++
+// Compile with "g++ TestTime.cpp Time.cpp"
+
 #include <iostream>
 #include <stdexcept>
 #include "Time.h"
